@@ -233,7 +233,8 @@ Kubernetes, often referred to as K8s, is an open-source platform designed to aut
 
 ## Conclusion
 
-This cheatsheet provides a quick reference to the most commonly used Kubernetes commands and concepts. With this guide, you'll be well-equipped to start deploying and managing your containerized applications using Kubernetes. For more detailed information, refer to the [Kubernetes Documentation](https://kubernetes.io/docs/).
+This cheatsheet provides a quick reference to the most commonly used Kubernetes commands and concepts. With this guide, you'll be well-equipped to start deploying and managing your containerized applications using Kubernetes. 
+
 
 ## Author
 **Purva Patel**
